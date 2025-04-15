@@ -114,6 +114,8 @@ These models were evaluated using precision, recall, and F1-score metrics to ass
 
 If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
 
+- [Anant Chikmurge](https://github.com/anantchikmurge) - Project Lead, Developer
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
