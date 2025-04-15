@@ -110,11 +110,12 @@ These models were evaluated using precision, recall, and F1-score metrics to ass
 - Experiment with other advanced deep learning models like  ResNet  or  VGG  for better accuracy.
 - Develop a mobile application for real-time disease detection using the trained models.
 
-## Contributing
+Contributors 
 
-If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
+- Anant Chikmurge  
+  Email: anantchikmurge2003@gmail.com  
+  Institution: Presidency University, Bengaluru, India  
 
-- [Anant Chikmurge](https://github.com/anantchikmurge) - Project Lead, Developer
 
 ## License
 
